@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public float horizontalInput;
-
 public class NewMonoBehaviourScript : MonoBehaviour
 {
+    public float horizontalInput;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
